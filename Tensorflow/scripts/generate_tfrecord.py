@@ -55,6 +55,7 @@ parser.add_argument("-c",
 
 args = parser.parse_args()
 
+
 if args.image_dir is None:
     args.image_dir = args.xml_dir
 
@@ -75,6 +76,8 @@ def xml_to_csv(path):
     Pandas DataFrame
         The produced dataframe
     """
+
+    # TODO: Because I used labelMe and generates annotations in JSON this function does not have effect
 
     xml_list = []
     for xml_file in glob.glob(path + '/*.xml'):
