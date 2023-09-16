@@ -18,4 +18,4 @@
 >*Note: in order to have a better expereince with the model detection, it should be trained at least with 20.000 epochs. However you might have some CPU limitations.*
 
 ---
-`#ReactJS` - `#Machine Learning` - `#TensorFlow` - `#TensorFlowJS` - `#TransferLearning` - `IBMCloud`
+`#ReactJS` - `#Typescript` - `JupyterNotebook` - `#Machine Learning` - `#TensorFlow` - `#TensorFlowJS` - `#TransferLearning` - `IBMCloud`
