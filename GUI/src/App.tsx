@@ -103,7 +103,6 @@ function App() {
                 height={CAP_HEIGHT}
                 cameraState={cameraState}
                 style={{ borderRadius: "1rem" }}
-                // @ts-ignore
                 ref={webcamRef}
                 canvasRef={canvasRef}
             />
